@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/pbjfire/static/css/main.d81c6fd0.css",
+    "main.js": "/pbjfire/static/js/main.164869cc.js",
+    "static/js/453.c2a2dab4.chunk.js": "/pbjfire/static/js/453.c2a2dab4.chunk.js",
+    "static/media/projects-hero-bg.png": "/pbjfire/static/media/projects-hero-bg.c082419c5629a865593a.png",
+    "static/media/services-hero-bg.png": "/pbjfire/static/media/services-hero-bg.3000befd2a23f05f21cc.png",
+    "static/media/contact-hero-bg.png": "/pbjfire/static/media/contact-hero-bg.9a6b85d711e7f08fe743.png",
+    "static/media/license-page1.jpg": "/pbjfire/static/media/license-page1.378b05f3ee9394652229.jpg",
+    "static/media/license-page2.jpg": "/pbjfire/static/media/license-page2.07263aec90cc6bd71791.jpg",
+    "static/media/about-hero-bg.webp": "/pbjfire/static/media/about-hero-bg.d6bcedb18255aca892d4.webp",
+    "static/media/hero-bg.webp": "/pbjfire/static/media/hero-bg.184133bdc118dda8831f.webp",
+    "static/media/bhuvanesh.jpg": "/pbjfire/static/media/bhuvanesh.fca62d8258c4b093595f.jpg",
+    "static/media/refill.webp": "/pbjfire/static/media/refill.7fc7582d6257899fdaa5.webp",
+    "static/media/consulting.webp": "/pbjfire/static/media/consulting.8d45df3b49def7e020f8.webp",
+    "static/media/maintenance.webp": "/pbjfire/static/media/maintenance.52092592a19fe96de975.webp",
+    "static/media/installation.webp": "/pbjfire/static/media/installation.d43e494553855db666c3.webp",
+    "static/media/csmc_garbage_depot.webp": "/pbjfire/static/media/csmc_garbage_depot.09a7fb381d200d5cdbfb.webp",
+    "static/media/csmc_garbage.webp": "/pbjfire/static/media/csmc_garbage.53c6985c9766ea3124b5.webp",
+    "static/media/alarm.webp": "/pbjfire/static/media/alarm.d6504526c79a5321de46.webp",
+    "static/media/training.webp": "/pbjfire/static/media/training.ba8ddcd1dc6ae4cb044c.webp",
+    "static/media/fire_safety_training.webp": "/pbjfire/static/media/fire_safety_training.4257e69bc1e9dc5bf187.webp",
+    "static/media/shivajinagar_real_estate.webp": "/pbjfire/static/media/shivajinagar_real_estate.08b94d31b6b8b476655f.webp",
+    "static/media/pbj_logo.png": "/pbjfire/static/media/pbj_logo.0866a79e895a94a5fe96.png",
+    "static/media/cipet.webp": "/pbjfire/static/media/cipet.0d364501d3e4fcc8ae4a.webp",
+    "static/media/shivajinagar_site.webp": "/pbjfire/static/media/shivajinagar_site.a68259120d4de064920f.webp",
+    "static/media/shailesh.jpg": "/pbjfire/static/media/shailesh.6d93a7015a24af2b67d2.jpg",
+    "static/media/lemon_tree.webp": "/pbjfire/static/media/lemon_tree.b1375aead3d7557c7c05.webp",
+    "static/media/fire-safety-background-1.jpg": "/pbjfire/static/media/fire-safety-background-1.23cd5ce52d02be372f09.jpg",
+    "static/media/a_square_hotel.webp": "/pbjfire/static/media/a_square_hotel.5f1b0b4e9ceda6ce8b43.webp",
+    "static/media/gmc_aurangabad.webp": "/pbjfire/static/media/gmc_aurangabad.a731b8c29698ffa13441.webp",
+    "index.html": "/pbjfire/index.html",
+    "main.d81c6fd0.css.map": "/pbjfire/static/css/main.d81c6fd0.css.map",
+    "main.164869cc.js.map": "/pbjfire/static/js/main.164869cc.js.map",
+    "453.c2a2dab4.chunk.js.map": "/pbjfire/static/js/453.c2a2dab4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d81c6fd0.css",
+    "static/js/main.164869cc.js"
+  ]
+}
