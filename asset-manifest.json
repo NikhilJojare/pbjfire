@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pbjfire/static/css/main.d81c6fd0.css",
-    "main.js": "/pbjfire/static/js/main.05893f7a.js",
+    "main.js": "/pbjfire/static/js/main.f80d66ff.js",
     "static/js/453.c2a2dab4.chunk.js": "/pbjfire/static/js/453.c2a2dab4.chunk.js",
     "static/media/projects-hero-bg.png": "/pbjfire/static/media/projects-hero-bg.c082419c5629a865593a.png",
     "static/media/services-hero-bg.png": "/pbjfire/static/media/services-hero-bg.3000befd2a23f05f21cc.png",
@@ -31,11 +31,11 @@
     "static/media/gmc_aurangabad.webp": "/pbjfire/static/media/gmc_aurangabad.a731b8c29698ffa13441.webp",
     "index.html": "/pbjfire/index.html",
     "main.d81c6fd0.css.map": "/pbjfire/static/css/main.d81c6fd0.css.map",
-    "main.05893f7a.js.map": "/pbjfire/static/js/main.05893f7a.js.map",
+    "main.f80d66ff.js.map": "/pbjfire/static/js/main.f80d66ff.js.map",
     "453.c2a2dab4.chunk.js.map": "/pbjfire/static/js/453.c2a2dab4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d81c6fd0.css",
-    "static/js/main.05893f7a.js"
+    "static/js/main.f80d66ff.js"
   ]
 }
